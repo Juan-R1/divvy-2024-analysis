@@ -38,14 +38,10 @@ This project explores over 6 million Divvy Bike Share rides taken in Chicago bet
 
 ## 📁 Project Files
 - `Divvy_2024_Analysis.ipynb` — complete notebook
-- `combined_divvy_2024.csv` — full cleaned dataset (optional)
+- `Divvy_2024_Analysis.html` — exported view of final analysis
 - `README.md` — this summary
-- `images/` — optional exported charts (for GitHub display)
 
 ---
 
-## 📸 Preview (Optional)
-> _(Include this only if you're exporting visual plots)_
-
-```markdown
-![Rides by Day of Week](images/rides_by_day.png)
+## 📬 Contact
+If you'd like to collaborate or discuss this project, feel free to connect!
